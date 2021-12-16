@@ -3,7 +3,7 @@ This is the basis of my next project- Motion Capture for Blender Animation. This
 
 Installation:  
   1. Type the command in the Terminal
-    - pip install opencv-python 
-    - pip install mediapipe
+        - pip install opencv-python 
+        - pip install mediapipe
   2. To check if correctly installed <br>
      pip freeze
